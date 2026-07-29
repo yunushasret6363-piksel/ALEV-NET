@@ -1,0 +1,1 @@
+print("ALEV-NET Başlatılıyor...")
